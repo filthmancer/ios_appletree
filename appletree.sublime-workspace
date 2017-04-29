@@ -1,0 +1,947 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Control",
+				"ControlVelocity"
+			],
+			[
+				"_UICan",
+				"_UICanvasRect"
+			],
+			[
+				"SafeWay",
+				"Safeway_Threshold"
+			],
+			[
+				"FItness",
+				"FitnessPerTick"
+			],
+			[
+				"COntrol",
+				"Control_Velocity"
+			],
+			[
+				"Move",
+				"MoveSpeed_actual"
+			],
+			[
+				"Swa",
+				"Sway_TimeBracket"
+			],
+			[
+				"TargetGrand",
+				"TargetGrand_Face"
+			],
+			[
+				"Sway",
+				"Sway_CurrentVelocity"
+			],
+			[
+				"Distan",
+				"DistanceFromSafeway"
+			],
+			[
+				"_UI",
+				"_UICanvas_rect"
+			],
+			[
+				"Safe",
+				"Safeway_Threshold"
+			],
+			[
+				"Distanc",
+				"DistanceAlongPath"
+			],
+			[
+				"TargetGra",
+				"TargetGrand_Face"
+			],
+			[
+				"MoveSpee",
+				"MoveSpeed_actual"
+			],
+			[
+				"State",
+				"StateWhenPressed"
+			],
+			[
+				"grandA",
+				"GrandAlertObj"
+			],
+			[
+				"Current",
+				"Current_soft"
+			],
+			[
+				"Diffi",
+				"Difficulty_ThirdEyeCost"
+			],
+			[
+				"Bonus",
+				"Bonus_DifficultyMultiplier"
+			],
+			[
+				"Diff",
+				"Difficulty_Time"
+			],
+			[
+				"Save",
+				"Save_File"
+			],
+			[
+				"SaveData",
+				"Save_Data"
+			],
+			[
+				"FIrst",
+				"FirstTimeInitialise"
+			],
+			[
+				"TImer",
+				"Timer_current"
+			],
+			[
+				"m_St",
+				"m_SteerActual"
+			],
+			[
+				"m_Stee",
+				"m_SteerHelper"
+			],
+			[
+				"m_Down",
+				"m_Downforce"
+			],
+			[
+				"int",
+				"inthreshold"
+			],
+			[
+				"ParkS",
+				"Park_Stalled_Curr"
+			],
+			[
+				"ParkStalled",
+				"Park_Stalled_Curr"
+			],
+			[
+				"Park_S",
+				"Park_Stalled_Time"
+			],
+			[
+				"poweru",
+				"powerupcheck_curr"
+			],
+			[
+				"powerup",
+				"powerupcheck_max"
+			],
+			[
+				"powerupch",
+				"powerupchance"
+			],
+			[
+				"pwerup",
+				"powerupcheck_timer"
+			],
+			[
+				"powerupche",
+				"powerupcheck_curr"
+			],
+			[
+				"m_Whee",
+				"m_WheelEffects"
+			],
+			[
+				"speed_bons",
+				"speed_bonus_actual"
+			],
+			[
+				"align",
+				"align_threshold"
+			],
+			[
+				"reverse",
+				"reverse_bonus"
+			],
+			[
+				"wheel",
+				"wheel_bonus_given"
+			],
+			[
+				"grump",
+				"grumpchecktime"
+			],
+			[
+				"GetMovmenet",
+				"GetMovementNormalAtSeat"
+			],
+			[
+				"Face",
+				"FaceObjInfoContainer"
+			],
+			[
+				"SkinColou",
+				"Skin_Colours"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "appletree_unity/Assets/Script/GameManager.cs",
+			"settings":
+			{
+				"buffer_size": 5915,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "appletree_unity/Assets/Script/Fruit.cs",
+			"settings":
+			{
+				"buffer_size": 1933,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "appletree_unity/Assets/Script/Collectable.cs",
+			"settings":
+			{
+				"buffer_size": 1499,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "appletree_unity/Assets/Script/ObjectPoolRef.cs",
+			"settings":
+			{
+				"buffer_size": 269,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "appletree_unity/Assets/Script/ObjectPool.cs",
+			"settings":
+			{
+				"buffer_size": 2149,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Projects/appletree/appletree_unity/Assets/Script/CameraPivot.cs",
+		"/C/Projects/appletree/appletree_unity/Assets/Script/CameraManager.cs",
+		"/C/Projects/appletree/appletree_unity/Assets/Script/DuoBehaviour.cs",
+		"/C/Projects/appletree/appletree_unity/Assets/GameManager.cs",
+		"/C/Projects/appletree/appletree_unity/Assets/Collectable.cs",
+		"/C/Projects/appletree/appletree_unity/Assets/Fruit.cs",
+		"/C/Projects/appletree/appletree_unity/Assets/CameraPivot.cs",
+		"/C/Projects/appletree/appletree_unity/Assets/CameraManager.cs",
+		"/C/Projects/appletree/appletree_unity/Assets/DuoBehaviour.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/GameManager.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/Filthworks/FOBJ.cs",
+		"/C/Users/Matt/Documents/Assassin's Creed IV Black Flag/Assassin4.ini",
+		"/C/Users/Matt/Documents/Assassin's Creed IV Black Flag/GFXSettings.AC4BFSP.xml",
+		"/C/Projects/deepspacefive/Deep Space Five/Assets/Scripts/PlayerControl.cs",
+		"/C/Projects/deepspacefive/Deep Space Five/Assets/Curve.shader",
+		"/C/Projects/deepspacefive/Deep Space Five/Assets/Scripts/GravityField.cs",
+		"/C/Projects/deepspacefive/Deep Space Five/Assets/Scripts/GameManager.cs",
+		"/C/Projects/deepspacefive/Deep Space Five/Assets/Scripts/Utility.cs",
+		"/C/Projects/deepspacefive/Deep",
+		"/C/Projects/deepspacefive/Deep Space Five/Space",
+		"/C/Projects/deepspacefive/Deep Space Five/Five/Assets/Scripts/Utility.cs",
+		"/C/Projects/deepspacefive/Deep Space Five/Assets/Scripts/DestroyCollider.cs",
+		"/C/Projects/deepspacefive/Deep Space Five/Five/Assets/Scripts/GameManager.cs",
+		"/C/Projects/deepspacefive/Deep Space Five/Assets/deepspacefive.sublime-workspace",
+		"/C/Projects/deepspacefive/Deep Space Five/Assets/deepspacefive.sublime-project",
+		"/C/Projects/deepspacefive/Deep Space Five/Five/Assets/Scripts/DestroyCollider.cs",
+		"/C/Projects/deepspacefive/Deep Space Five/Five/Assets/Scripts/PlayerControl.cs",
+		"/C/Projects/deepspacefive/Deep Space Five/Five/Assets/Scripts/GravityField.cs",
+		"/C/Projects/Lil-Turnie/Assets/Scripts/GameManager.cs",
+		"/C/Projects/Lil-Turnie/Assets/Scripts/Grid.cs",
+		"/C/Projects/Lil-Turnie/Assets/Scripts/Room.cs",
+		"/C/Projects/Lil-Turnie/Assets/Scripts/Tile.cs",
+		"/C/Projects/Lil-Turnie/Assets/Scripts/Units/Unit.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/Generator/Generator.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/GameData.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/Modules/Menu.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/UI/UIManager.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/InputController.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/Utilities/ObjectPooler.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/UI/UIObj.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/Face.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/Modules/Bowls.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/Modules/Dinner.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/Generator/GreatGrand.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/Face_Obj.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/Generator/FaceObj.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/Filthworks/FIRL.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/Modules/Module.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/TableManager.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/InputTarget.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/Utilities/Utility.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/Wobj.cs",
+		"/C/Projects/greatgrand/Assets/Editor/GrandGen.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/Face_Parent.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/Face_Object.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/UIManager.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/UIObj.cs",
+		"/C/Projects/greatgrand/Assets/SaveData/SaveData.cs",
+		"/C/Users/Matt/AppData/LocalLow/DefaultCompany/GreatGrand/SaveData.uml",
+		"/C/Users/Matt/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Matt/AppData/Roaming/Sublime Text 2/Packages/C#/Comments.tmPreferences",
+		"/C/Users/Matt/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Matt/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Projects/greatgrand/Assets/Plugins/Vectrosity/Editor/VectrosityEditor.dll",
+		"/C/Projects/greatgrand/Assets/Scripts/UIAlert.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/Generator/GrumpObj.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/Modules/DefaultMod.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/Utilities/Scumworks.cs",
+		"/C/Projects/matchima/Matchima!/Assets/Scripts/Utilities/_GameSaveLoad.cs",
+		"/C/Projects/greatgrand/Assets/SaveData/Example/SaveDataExample.cs",
+		"/C/Projects/greatgrand/Assets/Scripts/Utilities/ColorHSB.cs",
+		"/C/Projects/greatgrand/Assets/SaveData/readme.txt",
+		"/C/Projects/greatgrand/Assets/greatgrand.sublime-project",
+		"/C/Projects/matchima/Matchima!/Assets/Matchima.sublime-project",
+		"/C/Projects/greatgrand/Assets/greatgrand.sublime-workspace",
+		"/C/Projects/greatgrand/Assets/Scripts/UIVector.cs",
+		"/C/Projects/SKYTHIEF/Assets/Standard Assets/Cameras/Scripts/FreeLookCam.cs",
+		"/C/Projects/SKYTHIEF/Assets/Standard Assets/Cameras/CameraGuidelines.txt",
+		"/C/Projects/SKYTHIEF/Assets/CameraFollow.cs",
+		"/D/Games/DXMD/Deus.Ex.Mankind.Divided.REPACK-KaOs/KaOs.nfo",
+		"/C/Projects/valet/Assets/Scripts/GameManager.cs",
+		"/C/Projects/valet/Assets/Scripts/UIManager.cs",
+		"/C/Projects/valet/Assets/Scripts/Park.cs",
+		"/C/Projects/valet/Assets/Scripts/Car.cs",
+		"/C/Projects/valet/Assets/Scripts/Utilities/Utility.cs",
+		"/C/Projects/valet/Assets/Standard Assets/GamePadInput/GamePad.cs",
+		"/C/Projects/valet/Assets/Standard Assets/Vehicles/Car/Scripts/CarUserControl.cs",
+		"/C/Projects/valet/Assets/Standard Assets/Vehicles/Car/Scripts/CarController.cs",
+		"/C/Projects/valet/Assets/Controls_Car.cs",
+		"/C/Projects/valet/Assets/Standard Assets/Vehicles/Car/Scripts/WheelEffects.cs",
+		"/C/Projects/valet/Assets/Scripts/UIAlert.cs",
+		"/C/Projects/valet/Assets/Scripts/Utilities/ActionStep.cs",
+		"/C/Program Files (x86)/GOG.com/Gothic 2 Gold/system/Gothic.ini",
+		"/C/Program Files (x86)/GOG.com/Gothic 2 Gold/system/Gothic2.exe",
+		"/C/Users/Matt/Desktop/Gothic.ini",
+		"/C/Projects/valet/Assets/Standard Assets/Vehicles/Car/Scripts/CarAIControl.cs",
+		"/C/Projects/valet/Assets/Scripts/UIObj.cs",
+		"/C/Projects/valet/Assets/GamePadInput/GamePad.cs",
+		"/C/Projects/valet/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs",
+		"/C/Projects/valet/Assets/GamePadInput/Demo/DemoScript.cs",
+		"/C/Projects/valet/Assets/Park.cs",
+		"/C/Projects/valet/Assets/GameManager.cs",
+		"/C/Projects/valet/Assets/Car.cs",
+		"/C/Projects/valet/Assets/CarCollider.cs",
+		"/C/Projects/valet/Assets/Scripts/Utilities/ReferencedFrom.cs",
+		"/D/Games/Gears of War/Engine/Config/BaseEngine.ini",
+		"/D/Games/Gears of War/Engine/Config/BaseEngineUserSettings.ini",
+		"/D/Games/Gears of War/Engine/Config/BaseEditorUserSettings.ini",
+		"/C/Users/Matt/Documents/Downloads/The Young Pope Season 1 Mp4 720p/English Subtitles/The Young Pope S01E01.srt",
+		"/C/Projects/greatgrand/Assets/Generator/Generator.cs",
+		"/C/Projects/greatgrand/Assets/Generator/GreatGrand.cs",
+		"/C/Projects/greatgrand/Assets/Generator/FaceObj.cs",
+		"/C/Projects/greatgrand/Assets/What to import!.txt",
+		"/C/Projects/greatgrand/Assets/Generator/GrumpObj.cs",
+		"/C/Projects/unitystation/Assets/scripts/UI/ControlChat.cs",
+		"/C/Users/Matt/Downloads/mxrj001@hotmail.com.Photon-vX.free.100-ccu.license"
+	],
+	"find":
+	{
+		"height": 56.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Projects\\greatgrand\\Assets",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"DebugSphere",
+			"RotationPoint",
+			"Vector3.zero",
+			"ControlBasket",
+			"30F",
+			"0.4",
+			"1.05F;",
+			"10",
+			"100",
+			"300",
+			"90",
+			"45",
+			"4",
+			"1.5",
+			"BasketPosition",
+			"PlayDepth",
+			"FruitScore",
+			"growtime",
+			"growspeed",
+			"mat",
+			"hit",
+			"ripscale",
+			"growscale",
+			"ControlDecay",
+			"ControlVelocity",
+			"CamMaxSpeed",
+			"CamSpeed",
+			"50",
+			"4.0F",
+			"vel",
+			"newrot",
+			"dist",
+			"Basket.transform.localPosition.x",
+			"0.3F",
+			"ControlDecay",
+			"BasketRot",
+			"ControlVelocity",
+			"localPosition",
+			"Basket",
+			"Velocity",
+			"material",
+			"growRatio",
+			".GetComponent<Collectable>()",
+			"AppleSpawnPoint",
+			"pref =",
+			" as Collectable",
+			"CollectContainer",
+			"ParentObj",
+			"CreateObject",
+			"Count",
+			"Fruit",
+			"Collectable",
+			"0.5f",
+			"0.5",
+			"Down",
+			"FundsAlert",
+			"Rewards",
+			"Up",
+			"Click",
+			"Txt",
+			"UIObj",
+			"10",
+			"20",
+			"x",
+			"5",
+			"x",
+			"InitField",
+			"floatArray",
+			"float",
+			"Fuel",
+			"PowerAtDist",
+			"Gravity",
+			"Player",
+			"OnDestroy",
+			"yield return null;",
+			"rect",
+			" + r.width/2",
+			"_UICanvasRect",
+			"Canvas",
+			"FitUIPosition",
+			"yield return StartCoroutine(",
+			"FOBJ",
+			"g[i]",
+			" GameManager.Data.WorldObjects.pos",
+			"UpdateScroll",
+			"Vector3.zero",
+			"FOBJ",
+			"[1]",
+			"SetParent",
+			"Txt",
+			"QuoteObjects",
+			"GrandAlert",
+			"ShowAlerts",
+			"SetupFace",
+			"0",
+			"Txt",
+			"30",
+			"OrderByDescending",
+			"OrderBy",
+			"50",
+			"Vistor",
+			"Role.Guest",
+			"Guest",
+			"Role",
+			"Generate",
+			"targ",
+			"AlertTyp",
+			"AlertType.Hungry",
+			"FIRL",
+			"Fitness",
+			"Hunger",
+			"Hungry",
+			"Face",
+			"GreatGrand",
+			"Clear",
+			"Fitness",
+			"T",
+			"Alert",
+			"HUNGER",
+			"GrumpAlert",
+			"RandomiseOffsetColours",
+			"Randomise",
+			"0.2",
+			"+=",
+			"FaceChildren",
+			"Left",
+			"FaceChildren",
+			"Glasses"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"AlertType.Hunger",
+			"		if(Stopped && !Input.GetMouseButton(0)) MoveSpeed_actual = MoveSpeed;\n",
+			"))",
+			"Stopped = Input.GetMouseButton(0);",
+			")\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "appletree_unity/Assets/Script/GameManager.cs",
+					"settings":
+					{
+						"buffer_size": 5915,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3099,
+								3099
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1896.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "appletree_unity/Assets/Script/Fruit.cs",
+					"settings":
+					{
+						"buffer_size": 1933,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								678,
+								678
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 741.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "appletree_unity/Assets/Script/Collectable.cs",
+					"settings":
+					{
+						"buffer_size": 1499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								935,
+								935
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 399.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "appletree_unity/Assets/Script/ObjectPoolRef.cs",
+					"settings":
+					{
+						"buffer_size": 269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								149,
+								149
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "appletree_unity/Assets/Script/ObjectPool.cs",
+					"settings":
+					{
+						"buffer_size": 2149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								464,
+								464
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 969.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"fobj",
+				"Main/Filthworks/FOBJ.cs"
+			],
+			[
+				"uiobj",
+				"Main/UI/UIObj.cs"
+			],
+			[
+				"face",
+				"Main/Face.cs"
+			],
+			[
+				"objectpoo",
+				"Utilities/ObjectPooler.cs"
+			],
+			[
+				"input",
+				"Main/InputController.cs"
+			],
+			[
+				"uimanag",
+				"Main/UI/UIManager.cs"
+			],
+			[
+				"gamemanager",
+				"Main/GameManager.cs"
+			],
+			[
+				"menu",
+				"Main/Modules/Menu.cs"
+			],
+			[
+				"gamemana",
+				"Main/GameManager.cs"
+			],
+			[
+				"gamemanag",
+				"Main/GameManager.cs"
+			],
+			[
+				"greatgrand",
+				"Main/Generator/GreatGrand.cs"
+			],
+			[
+				"uimana",
+				"Main/UI/UIManager.cs"
+			],
+			[
+				"dinner",
+				"Main/Modules/Dinner.cs"
+			],
+			[
+				"firl",
+				"Main/Filthworks/FIRL.cs"
+			],
+			[
+				"faceob",
+				"Main/Face_Obj.cs"
+			],
+			[
+				"faceobj",
+				"Main/Generator/FaceObj.cs"
+			],
+			[
+				"gener",
+				"Main/Generator/Generator.cs"
+			],
+			[
+				"gameman",
+				"Main/GameManager.cs"
+			],
+			[
+				"gamedata",
+				"Main/GameData.cs"
+			],
+			[
+				"tablemana",
+				"Main/TableManager.cs"
+			],
+			[
+				"game",
+				"Main/GameManager.cs"
+			],
+			[
+				"uimanager",
+				"Main/UI/UIManager.cs"
+			],
+			[
+				"module",
+				"Main/Modules/Module.cs"
+			],
+			[
+				"inp",
+				"Main/InputController.cs"
+			],
+			[
+				"inputtarg",
+				"Main/InputTarget.cs"
+			],
+			[
+				"utility",
+				"Utilities/Utility.cs"
+			],
+			[
+				"modul",
+				"Main/Modules/Module.cs"
+			],
+			[
+				"greatgran",
+				"Main/Generator/GreatGrand.cs"
+			],
+			[
+				"inputtar",
+				"Main/InputTarget.cs"
+			],
+			[
+				"generat",
+				"Main/Generator/Generator.cs"
+			],
+			[
+				"bowls",
+				"Main/Modules/Bowls.cs"
+			],
+			[
+				"great",
+				"Main/Generator/GreatGrand.cs"
+			],
+			[
+				"gameda",
+				"Main/GameData.cs"
+			],
+			[
+				"dinn",
+				"Main/Modules/Dinner.cs"
+			],
+			[
+				"ui",
+				"Main/UIManager.cs"
+			],
+			[
+				"uialert",
+				"Main/UIAlert.cs"
+			],
+			[
+				"uialer",
+				"Main/UIAlert.cs"
+			],
+			[
+				"grumpobj",
+				"Main/Generator/GrumpObj.cs"
+			],
+			[
+				"table",
+				"Main/TableManager.cs"
+			],
+			[
+				"gamed",
+				"Main/GameData.cs"
+			],
+			[
+				"uiob",
+				"Main/UIObj.cs"
+			],
+			[
+				"g",
+				"Main/Generator/FaceObj.cs"
+			],
+			[
+				"uim",
+				"Main/UIManager.cs"
+			],
+			[
+				"tableman",
+				"Main/TableManager.cs"
+			],
+			[
+				"gamedat",
+				"Main/GameData.cs"
+			],
+			[
+				"tablemanag",
+				"Main/TableManager.cs"
+			],
+			[
+				"ggge",
+				"/C/Projects/greatgrand/Assets/Editor/GrandGen.cs"
+			],
+			[
+				"grear",
+				"Main/Generator/GreatGrand.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
