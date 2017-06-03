@@ -1,7 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+#if UNITY_EDITOR
 using UnityEditor;
+#endif
 
 public enum PoolType {Spawn, Reference}
 
@@ -98,6 +100,7 @@ public class ObjectPool : ScriptableObject {
 		g.SetActive(false);
 	}
 
+#if UNITY_EDITOR
 	[MenuItem("Assets/Filth/Create Pooler")]
 	public static void CreateObjectPooler()
 	{
@@ -107,4 +110,6 @@ public class ObjectPool : ScriptableObject {
 		EditorUtility.FocusProjectWindow();
 		Selection.activeObject = asset;
 	}
+
+#endif
 }

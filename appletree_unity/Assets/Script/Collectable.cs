@@ -68,7 +68,6 @@ public class Collectable : MonoBehaviour {
 	public void Destroy()
 	{
 		ObjectPoolRef r = this.GetComponent<ObjectPoolRef>();
-		print(r);
 		if(r != null) r.Pool.Unspawn(this.gameObject);
 		else Destroy(this.gameObject);
 	}
